@@ -1,2 +1,2 @@
 # Airbnb-New-User-Bookings-Kaggle
-Repository for Airbnb new user booking prediction model.
+Repository for Airbnb new user booking prediction model. In progress...
